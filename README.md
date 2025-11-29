@@ -1,2 +1,2 @@
 # conversor-monedas
-Pequeña aplicación para convertir valores entre diferentes monedas, cuyas equivalencias se actualizan por medio de una fuente externa (API). 
+Pequeña aplicación para convertir valores entre monedas de diferentes países, cuyas equivalencias se actualizan a través de una fuente externa (API). 
